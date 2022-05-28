@@ -9,7 +9,7 @@
     background: linear-gradient(to top,rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%),url(tree-1.png);
     background-position: center;
     background-size: cover;
-    height: 109vh;
+    height: 120vh;
 }
 
 .navbar{
@@ -21,7 +21,7 @@
 .icon{
     width: 200px;
     float: left;
-    height: 70px;
+    height: 90px;
 }
 
 .logo{
@@ -36,7 +36,7 @@
 .menu{
     width: 400px;
     float: left;
-    height: 70px;
+    height: 100px;
 }
 
 ul{
@@ -66,7 +66,7 @@ ul li a:hover{
 }
 
 .search{
-    width: 330px;
+    width: 300px;
     float: left;
     margin-left: 270px;
 }
